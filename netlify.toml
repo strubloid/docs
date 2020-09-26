@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://github.com/strubloid/resume"
+  status = 301
+  force = true
